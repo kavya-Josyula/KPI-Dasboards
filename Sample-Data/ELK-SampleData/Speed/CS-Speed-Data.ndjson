@@ -1,0 +1,4 @@
+{ "create":{ } }
+{"BusinessGroup" : "Salesforce","businessGroupId" : "63140ad9-fae8-47b5-a972-6c13b2d2fae7","Period" : "CY22Q1","Date" : "2022-01-28T08:46:51.150-05:00","avgLeadTimeInDays" : 24,"codeCoverage" : 85,"DER" : 25,"devDeploymentes" : 10,"prodDeploymentes": 3,"qaDeploymentes": 4,"velocityInPoints": 35}
+{ "create":{ } }
+{"BusinessGroup" : "Salesforce","businessGroupId" : "63140ad9-fae8-47b5-a972-6c13b2d2fae7","Period" : "CY22Q2","Date" : "2022-01-11T07:46:51.150-05:00","avgLeadTimeInDays" : 23,"codeCoverage" : 87,"DER" : 16,"devDeploymentes" : 20,"prodDeploymentes": 5,"qaDeploymentes": 8,"velocityInPoints": 31}
